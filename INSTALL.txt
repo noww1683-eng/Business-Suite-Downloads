@@ -1,0 +1,8 @@
+Business Suite for Windows v1.0.3
+
+1. Extract the ZIP.
+2. Run Business-Suite-Windows-Setup-v1.0.3.exe.
+3. Open Drive and select Connect Google Drive.
+4. Sign in using the required Google account.
+
+This installer is currently unsigned, so Windows SmartScreen may show a warning. Verify SHA256.txt before installing.
