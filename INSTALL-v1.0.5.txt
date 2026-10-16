@@ -1,0 +1,9 @@
+Business Suite for Windows v1.0.5
+
+1. Download Business-Suite-Windows-Setup-v1.0.5.exe.
+2. Run the single setup file. No ZIP extraction or manual DLL copy is required.
+3. The installer places Business Suite, WebView2Loader.dll and libunwind.dll together automatically.
+4. Launch Business Suite from the Start menu or desktop shortcut.
+
+This release fixes the missing libunwind.dll startup error in v1.0.4.
+Authenticode publisher trust requires a Microsoft-trusted code-signing certificate.
