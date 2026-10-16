@@ -2,7 +2,7 @@
 
 - [Download Windows ZIP](./Business-Suite-Windows-v1.0.3.zip)
 - [Download Windows installer](./Business-Suite-Windows-Setup-v1.0.3.exe)
-- [Download Chrome extension v1.2.0](./Business-Suite-Chrome-Extension-v1.2.0.zip)
+- [Download Chrome extension v1.2.1](./Business-Suite-Chrome-Extension-v1.2.1.zip)
 - [Windows SHA-256 checksum](./SHA256.txt)
 - [Chrome extension SHA-256 checksum](./Chrome-Extension-SHA256.txt)
 
