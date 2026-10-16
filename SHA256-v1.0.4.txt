@@ -1,0 +1,2 @@
+e4fad94ce7eb2f0db905e10d45c49819a66605ac82a7b15f1d23077d2e83f1ce  Business-Suite-Windows-Setup-v1.0.4.exe
+00b9005484d9c18de9701d55a310e2d7141b3164dc73162f0f99f1e8725df3c0  Business-Suite-Android-v1.0.4.apk

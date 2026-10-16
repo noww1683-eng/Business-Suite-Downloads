@@ -1,0 +1,15 @@
+Business Suite v1.0.4
+
+WINDOWS
+1. Download Business-Suite-Windows-v1.0.4.zip.
+2. Extract the ZIP.
+3. Run Business-Suite-Windows-Setup-v1.0.4.exe.
+4. Open Business Suite and select your currency.
+
+ANDROID
+1. Download Business-Suite-Android-v1.0.4.apk.
+2. Open the APK and allow installation from this source if Android asks.
+3. Install it over the existing Business Suite app to keep local app data.
+4. Open Business Suite and select your currency.
+
+Both builds use the same shared currency settings. Google Drive sync continues to use the connected account.
