@@ -1,1 +1,1 @@
-ea2cddd664094c1963a19d23b437b5416002fee35a96b3ae3a58f358b01f6c91  Business-Suite-Chrome-Extension-v1.1.6.zip
+1be74cb80a98464b2f83e0eb3adc40425cf5f2c834c525100bba25c42ede61a6  Business-Suite-Chrome-Extension-v1.1.7.zip
