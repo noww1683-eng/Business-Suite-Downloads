@@ -1,5 +1,7 @@
 # Business Suite Downloads
 
+- [Download 7-day trial product website](./Business-Suite-Website-7-Day-Trial.zip)
+- [Website SHA-256 checksum](./Business-Suite-Website-SHA256.txt)
 - [Download Windows ZIP v1.0.4](./Business-Suite-Windows-v1.0.4.zip)
 - [Download Windows installer v1.0.4](./Business-Suite-Windows-Setup-v1.0.4.exe)
 - [Download Android APK v1.0.4](./Business-Suite-Android-v1.0.4.apk)
