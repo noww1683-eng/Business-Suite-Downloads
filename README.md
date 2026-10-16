@@ -2,6 +2,8 @@
 
 - [Download Windows ZIP](./Business-Suite-Windows-v1.0.3.zip)
 - [Download Windows installer](./Business-Suite-Windows-Setup-v1.0.3.exe)
-- [SHA-256 checksum](./SHA256.txt)
+- [Download Chrome extension v1.1.6](./Business-Suite-Chrome-Extension-v1.1.6.zip)
+- [Windows SHA-256 checksum](./SHA256.txt)
+- [Chrome extension SHA-256 checksum](./Chrome-Extension-SHA256.txt)
 
-The installer is currently unsigned. Verify the SHA-256 checksum before installation.
+The Windows installer is currently unsigned. Verify each download with its SHA-256 checksum before use.
